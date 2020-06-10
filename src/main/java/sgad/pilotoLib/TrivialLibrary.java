@@ -16,7 +16,7 @@ public class TrivialLibrary {
     }
     
     public String getMessage() {
-        return "Hello World by the library ! ";
+        return "Hola este es el cambio para la nueva petición 256!!!!";
     }
     
 }
