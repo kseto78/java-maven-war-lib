@@ -16,7 +16,7 @@ public class TrivialLibrary {
     }
     
     public String getMessage() {
-        return "El nuevo texto a mostrar en la app del piloto-war de Oficina Técnica es este, viene de la nueva historia de usuaio 257";
+        return "El nuevo texto a mostrar en la app del piloto-war de Oficina Técnica es este, viene de la nueva historia de usuaio #257";
     }
     
 }
